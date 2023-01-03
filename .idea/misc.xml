@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andy1/AndroidStudioProjects/UART_USB_Connection/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/andy1/AndroidStudioProjects/UART_USB_Connection/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/andy1/AndroidStudioProjects/UART_USB_Connection/app/src/main/res/layout/recycler_text_item.xml" value="0.16802536231884058" />
       </map>
     </option>
   </component>

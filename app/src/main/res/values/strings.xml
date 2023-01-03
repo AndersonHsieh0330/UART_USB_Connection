@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UART_USB_Connection</string>
+    <string name="connect">connect</string>
+    <string name="no_data">no data</string>
+    <string name="no_device">no device detected</string>
+    <string name="oops">Oops</string>
+    <string name="ok">Ok</string>
+
+
 </resources>
